@@ -6,6 +6,7 @@ This README provides an overview of the code and analysis performed on the Spoti
 ## Dependencies
 To run this code, you need the following Python libraries:
 - pip install -r requirements.txt
+  
 You can install these dependencies using pip by uncommenting the relevant lines in the code.
 
 ### Data Loading and EDA
