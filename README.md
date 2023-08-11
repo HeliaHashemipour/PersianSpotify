@@ -1,4 +1,6 @@
-# PersianSpotify
+> Instructor: [Dr. E. Nazerfard](https://scholar.google.com/citations?user=Cl5tre8AAAAJ&hl=en)
+
+> Spring 2023
 
 ## Introduction
 This README provides an overview of the code and analysis performed on the Spotify dataset. The dataset contains various music attributes for songs on the Spotify platform. The analysis includes exploratory data analysis (EDA), data preprocessing, regression, and classification tasks.
