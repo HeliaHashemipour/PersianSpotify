@@ -3,7 +3,7 @@
 > Spring 2023
 
 ## Introduction
-This README provides an overview of the code and analysis performed on the Spotify dataset. The dataset contains various music attributes for songs on the Spotify platform. The analysis includes exploratory data analysis (EDA), data preprocessing, regression, and classification tasks.
+This Project provides an overview of the code and analysis performed on the Spotify dataset. The dataset contains various music attributes for songs on the Spotify platform. The analysis includes exploratory data analysis (EDA), data preprocessing, regression, and classification tasks.
 
 ## Dependencies
 To run this code, you need the following Python libraries:
